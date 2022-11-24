@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="int.isdigit" />
+          <option value="Dyma.projet_morpion.Correction_Morpion.col" />
+          <option value="int.numeric" />
+          <option value="int.age" />
+          <option value="Dyma.intro_test.tests.tests_mon_module.module_unitest" />
+          <option value="Dyma.intro_test.tests.tests_mon_module.*" />
+          <option value="PySide6.QtWidgets.clicked.emit" />
+          <option value="src.main.python.package.api.note.package" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
